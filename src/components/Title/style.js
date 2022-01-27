@@ -10,6 +10,11 @@ const styles = StyleSheet.create({
         color: '#FF0043',
         fontSize: 24,
         fontWeight: 'bold',
+    },
+    textSubtitle:{
+        color: '#000',
+        fontSize: 16,
+        fontStyle: 'italic'
     }
 });
 

@@ -13,7 +13,7 @@ Desenvolver meus conhecimentos relacionadas à criação de aplicativos mobile c
 
 ### Tela inicial
 
-![Home](./midia/Home.jpg)
+![Home](./midia/home.jpg)
 
 ---
 
